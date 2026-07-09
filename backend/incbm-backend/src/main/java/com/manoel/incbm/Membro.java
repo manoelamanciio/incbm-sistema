@@ -14,7 +14,7 @@ public class Membro {
 
     private String nome;
     private String cargo;
-
+    private String cpf;
     private Integer dia;
     private Integer mes;
 
